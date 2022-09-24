@@ -128,3 +128,12 @@ In this project of analyzing play store applications, we have worked on several 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tushar-khairnar-b73659191)
 
 [![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://github.com/](ttps://github.com/tushar2411))
+
+## 📚 References
+*	GeeksforGeeks
+*	Analytics Vidhya
+*	Stackoverflow
+*	Towards data science
+*	Python libraries documentation
+*	Data camp
+* Medium
