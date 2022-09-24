@@ -13,8 +13,7 @@ The objective of this experiment is to deliver insights to understand customer d
   ##  🏹 Project Files Description
 
 <p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
-### Executable Files:
-- [Play Store App Review Analysis](https://github.com/tushar2411/Almabetter-Data-Science/blob/a41f5fcb45be113457042534c6665b870f1c829b/myPlay_Store_App_Review_Analysis_Capstone_Project.ipynb)- Includes all functions required for clustering operations.
+
 
 ### Output:
 - [Google Colab](https://github.com/tushar2411/Almabetter-Data-Science/blob/a41f5fcb45be113457042534c6665b870f1c829b/myPlay_Store_App_Review_Analysis_Capstone_Project.ipynb) - All the outputs are visible in the provided colab notebook.
@@ -125,6 +124,7 @@ In this project of analyzing play store applications, we have worked on several 
 *	Helix Jump has the highest number of positive reviews and Angry Birds Classic has the highest number of negative reviews.
 
 ## 💶 Credits
-[![LinkedIn](www.linkedin.com/in/tushar-khairnar-b73659191)
-[![GitHub](ttps://github.com/tushar2411)
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tushar-khairnar-b73659191)
+
+[![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://github.com/](ttps://github.com/tushar2411))
