@@ -95,16 +95,6 @@ Apart from this, two new columns were added to the main data frame, namely, “R
 By doing these operations on the original dataset, we are ready with the data pipeline, and data visualizations can be done on it.
 All the apps in play store have the rating between 0.5 to 5. Maximum apps have the rating between 3.8 to 4.5.
 
-## 🛠	Challenges Faced:
-* Reading the dataset and comprehending the problem statement. Our major challenge was data cleaning.
-* Handling the error, duplicate and NaN values in the dataset.
-* 13.60% of reviews were NaN values, and even after merging both the dataframes, we could not infer much in order to fill them. Thus we had to drop them.
-* The merged data frame of both play store and user reviews, had only 816 common apps. This is just 10% of the cleaned data, we could have given more valuable analysis, if we had atleast 70% - 80% of the data available in the merged dataframes.
-* User Reviews had 42% of NaN values, which could have been used for developing an understanding of the category wise sentiments, which would help us to fill 13.60% NaN values of the Reviews column.
-* There is so much more which can be explored. Like we have current version, android version available which can be explored in detail and we can come out with more analysis where we can tell how does these things effect and needs to be kept in mind while developing app for the users.
-* We can explore the correlation between the size of the app and the version of Android on the number of installs.
-* Machine learning can help us to deploy more insights by developing models which can help us interpret even more better. We have left this as future work as this is something where we can work on.
-*	Designing multiple visualizations to summarize the information in the dataset and successfully communicate the results and trends to the reader.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
